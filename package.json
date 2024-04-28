@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/wikibook/nodejs#readme",
   "dependencies": {
+    "mysql": "github:mysqljs/mysql",
+    "mysql2": "^3.9.7",
     "sanitize-html": "^1.18.2"
   }
 }
